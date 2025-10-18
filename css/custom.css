@@ -874,8 +874,10 @@ header.main-header .header-sticky.active .container-fluid::before {
 
 .hero.hero-slider-layout .hero-slide {
   position: relative;
+  height: 900px;
   padding: 320px 30px 200px;
 }
+
 
 .hero.hero-slider-layout .hero-slide::before {
   content: "";
